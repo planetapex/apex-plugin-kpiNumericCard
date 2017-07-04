@@ -1,0 +1,38 @@
+{
+    "name": "KPI Numeric Card",
+    "version": "1.0",
+    "private": "N",
+    "description": "Region type plugin for displaying responsive kpi numeric cards",
+    "keywords": ["oracle", "apex", "plugin", "AJAX", "PPR", "region", "card", "performance", "responsive","kpi"],
+    "homepage": "https://github.com/planetapex/apex-plugin-kpiNumericCard",
+    "bugs": {
+        "url": "https://github.com/planetapex/apex-plugin-kpiNumericCard/issues",
+        "email": "yasirali.wizerp@gmail.com"
+    },
+    "license": "MIT",
+    "author": {
+        "name": "M.Yasir Ali Shah",
+        "email": "yasirali.wizerp@gmail.com",
+        "url": "http://apexfusion.blogspot.com/2017/07/oracle-apex-plugin-kpi-numeric-cards.html",
+        "twitter": "m_yasir_ali",
+        "linkedin": "https://www.linkedin.com/in/myasiralishah/",
+        "donationUrl": "https://www.paypal.me/MYasirAliShah/4"
+    },
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/planetapex/apex-plugin-kpiNumericCard.git"
+    },
+    "private": false,
+    "oracle": {
+        "versions": ["11.2.0.1", "12.1.0.1"],
+        "apex": {
+            "versions": ["5.0.0", "5.1.0"],
+            "plugin": {
+                "internalName": "COM.PLANETAPEX.KPI_NUMERIC_CARDS",
+                "type": "region",
+                "demo": "https://apex.oracle.com/pls/apex/f?p=83009:50",
+                "previewImage": "https://raw.githubusercontent.com/planetapex/apex-plugin-kpiNumericCard/master/assets/kpiNumericCard.png"
+            }
+        }
+    }
+}
