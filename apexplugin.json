@@ -4,7 +4,7 @@
     "private": "N",
     "description": "Region type plugin for displaying responsive kpi numeric cards",
     "keywords": ["oracle", "apex", "plugin", "AJAX", "PPR", "region", "card", "performance", "responsive","kpi"],
-    "homepage": "http://apexfusion.blogspot.com/2017/07/oracle-apex-plugin-kpi-numeric-cards.html",
+    "homepage": "https://github.com/planetapex/apex-plugin-kpiNumericCard",
     "bugs": {
         "url": "https://github.com/planetapex/apex-plugin-kpiNumericCard/issues",
         "email": "yasirali.wizerp@gmail.com"
@@ -13,7 +13,7 @@
     "author": {
         "name": "M.Yasir Ali Shah",
         "email": "yasirali.wizerp@gmail.com",
-        "url": "http://apexfusion.blogspot.com/",
+        "url": "http://apexfusion.blogspot.com/2017/07/oracle-apex-plugin-kpi-numeric-cards.html",
         "twitter": "m_yasir_ali",
         "linkedin": "https://www.linkedin.com/in/myasiralishah/",
         "donationUrl": "https://www.paypal.me/MYasirAliShah/4"
