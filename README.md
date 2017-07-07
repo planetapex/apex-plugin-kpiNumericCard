@@ -7,7 +7,8 @@ Region type plugin for displaying responsive kpi numeric cards. Fully customizab
 
 ## Documentation
 
-In progress. Checkout the Demo Application mentioned below.
+![KPI Numeric Card Documentation](http://apexfusion.blogspot.com/2017/07/oracle-apex-plugin-kpi-numeric-cards.html "KPI Numeric Card Documentation")
+
 
 ## Donate
 
